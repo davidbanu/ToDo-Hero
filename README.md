@@ -1,4 +1,5 @@
 # ToDo-Hero
+![alt tag](https://github.com/davidbanu/ToDo-Hero/blob/master/To%20Do.png)
 ## Synopsis
 
 ToDo list with sign in capabilites and a beautiful interface. Developed with Meteor and Mongo
