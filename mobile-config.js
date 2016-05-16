@@ -1,5 +1,5 @@
 App.info({
-  name: 'Todos',
+  name: 'Todo-hero',
   description: 'A simple todo list app built in Meteor.',
   author: 'David Banu',
   email: 'davidbanu@gmail.com',
